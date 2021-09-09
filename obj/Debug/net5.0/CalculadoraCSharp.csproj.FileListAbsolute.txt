@@ -1,0 +1,16 @@
+C:\Users\Raysom\source\repos\CalculadoraCSharp\bin\Debug\net5.0\CalculadoraCSharp.exe
+C:\Users\Raysom\source\repos\CalculadoraCSharp\bin\Debug\net5.0\CalculadoraCSharp.deps.json
+C:\Users\Raysom\source\repos\CalculadoraCSharp\bin\Debug\net5.0\CalculadoraCSharp.runtimeconfig.json
+C:\Users\Raysom\source\repos\CalculadoraCSharp\bin\Debug\net5.0\CalculadoraCSharp.runtimeconfig.dev.json
+C:\Users\Raysom\source\repos\CalculadoraCSharp\bin\Debug\net5.0\CalculadoraCSharp.dll
+C:\Users\Raysom\source\repos\CalculadoraCSharp\bin\Debug\net5.0\ref\CalculadoraCSharp.dll
+C:\Users\Raysom\source\repos\CalculadoraCSharp\bin\Debug\net5.0\CalculadoraCSharp.pdb
+C:\Users\Raysom\source\repos\CalculadoraCSharp\obj\Debug\net5.0\CalculadoraCSharp.csproj.AssemblyReference.cache
+C:\Users\Raysom\source\repos\CalculadoraCSharp\obj\Debug\net5.0\CalculadoraCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raysom\source\repos\CalculadoraCSharp\obj\Debug\net5.0\CalculadoraCSharp.AssemblyInfoInputs.cache
+C:\Users\Raysom\source\repos\CalculadoraCSharp\obj\Debug\net5.0\CalculadoraCSharp.AssemblyInfo.cs
+C:\Users\Raysom\source\repos\CalculadoraCSharp\obj\Debug\net5.0\CalculadoraCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Raysom\source\repos\CalculadoraCSharp\obj\Debug\net5.0\CalculadoraCSharp.dll
+C:\Users\Raysom\source\repos\CalculadoraCSharp\obj\Debug\net5.0\ref\CalculadoraCSharp.dll
+C:\Users\Raysom\source\repos\CalculadoraCSharp\obj\Debug\net5.0\CalculadoraCSharp.pdb
+C:\Users\Raysom\source\repos\CalculadoraCSharp\obj\Debug\net5.0\CalculadoraCSharp.genruntimeconfig.cache
